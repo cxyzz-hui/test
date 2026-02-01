@@ -11,5 +11,10 @@ int main(void)
     CC 
     C CCCC CCC 
 
+    for(int i = 0; i < 100; i ++)
+    {
+        C i CCC
+    }
+
     cc
 }
